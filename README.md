@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
