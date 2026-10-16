@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
