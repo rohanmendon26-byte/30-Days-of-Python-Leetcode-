@@ -12,6 +12,7 @@
 | [0141-linked-list-cycle](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
