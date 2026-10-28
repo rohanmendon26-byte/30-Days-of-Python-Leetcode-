@@ -13,6 +13,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
