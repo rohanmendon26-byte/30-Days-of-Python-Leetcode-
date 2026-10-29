@@ -36,6 +36,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1920-build-array-from-permutation](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
