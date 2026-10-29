@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1920-build-array-from-permutation) |
+## String
+|  |
+| ------- |
+| [1678-goal-parser-interpretation](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
