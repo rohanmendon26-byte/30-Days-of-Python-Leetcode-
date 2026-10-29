@@ -37,6 +37,7 @@
 | [0410-split-array-largest-sum](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1920-build-array-from-permutation](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1920-build-array-from-permutation) |
+| [1480-running-sum-of-1d-array](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
