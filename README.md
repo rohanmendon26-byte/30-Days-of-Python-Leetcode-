@@ -52,6 +52,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
+| [0070-climbing-stairs](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
+| [0070-climbing-stairs](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0070-climbing-stairs) |
 ## Newton's Method
 |  |
 | ------- |
@@ -99,4 +101,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
+| [0070-climbing-stairs](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
