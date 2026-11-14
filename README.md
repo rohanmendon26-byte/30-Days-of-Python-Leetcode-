@@ -21,11 +21,13 @@
 | [0141-linked-list-cycle](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
 | ------- |
@@ -43,12 +45,14 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2574-left-and-right-sum-differences](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2574-left-and-right-sum-differences) |
 | [1732-find-the-highest-altitude](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1732-find-the-highest-altitude) |
+| [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0069-sqrtx](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +100,7 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -106,4 +111,8 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0070-climbing-stairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
