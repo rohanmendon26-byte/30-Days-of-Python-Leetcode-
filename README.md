@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -92,4 +95,8 @@
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1704-determine-if-string-halves-are-alike) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
