@@ -41,6 +41,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1470-shuffle-the-array](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2574-left-and-right-sum-differences](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
