@@ -22,6 +22,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1108-defanging-an-ip-address](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1704-determine-if-string-halves-are-alike) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
