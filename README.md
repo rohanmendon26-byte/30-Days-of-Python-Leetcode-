@@ -15,6 +15,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0061-rotate-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0061-rotate-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
