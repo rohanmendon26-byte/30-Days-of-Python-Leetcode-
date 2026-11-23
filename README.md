@@ -16,6 +16,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0061-rotate-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0509-fibonacci-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0509-fibonacci-number) |
+| [0021-merge-two-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 ## Simulation
 |  |
 | ------- |
