@@ -50,6 +50,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/2574-left-and-right-sum-differences) |
 | [1732-find-the-highest-altitude](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [1539-kth-missing-positive-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0069-sqrtx](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [1539-kth-missing-positive-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
