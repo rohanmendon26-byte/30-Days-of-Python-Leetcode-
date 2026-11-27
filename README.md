@@ -17,6 +17,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0061-rotate-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +124,20 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohanmendon26-byte/30-Days-of-Python-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
